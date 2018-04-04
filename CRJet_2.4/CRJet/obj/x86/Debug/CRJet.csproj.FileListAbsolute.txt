@@ -1,0 +1,55 @@
+C:\Users\aydarik\Desktop\CRJet\CRJet\bin\Debug\CRJet.exe
+C:\Users\aydarik\Desktop\CRJet\CRJet\bin\Debug\CRJet.pdb
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.csprojResolveAssemblyReference.cache
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.Form1.resources
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.Properties.Resources.resources
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.csproj.GenerateResource.Cache
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.csproj.CoreCompileInputs.cache
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.exe
+C:\Users\aydarik\Desktop\CRJet\CRJet\obj\x86\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\bin\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\bin\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.csprojResolveAssemblyReference.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.Form1.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.Properties.Resources.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.csproj.GenerateResource.Cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.csproj.CoreCompileInputs.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.1\CRJet\obj\x86\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\bin\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\bin\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.csprojResolveAssemblyReference.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.Form1.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.Properties.Resources.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.csproj.GenerateResource.Cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.csproj.CoreCompileInputs.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.2\CRJet\obj\x86\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\bin\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\bin\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.csprojResolveAssemblyReference.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.Form1.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.Properties.Resources.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.csproj.GenerateResource.Cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.csproj.CoreCompileInputs.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3\CRJet\obj\x86\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\bin\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\bin\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.csprojResolveAssemblyReference.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.Form1.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.Properties.Resources.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.csproj.GenerateResource.Cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.csproj.CoreCompileInputs.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.3.1\CRJet\obj\x86\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\bin\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\bin\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.csprojResolveAssemblyReference.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.Form1.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.Properties.Resources.resources
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.csproj.GenerateResource.Cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.csproj.CoreCompileInputs.cache
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.exe
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.pdb
+C:\Users\aydarik\Documents\homework\после выживания\CRJet_2.4\CRJet\obj\x86\Debug\CRJet.InfoMessageBox.resources
